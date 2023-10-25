@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a computer science student and I'm super passionate about full-stack development. I love diving into both the server side, using C#, and the front end, where I use React. I find it incredibly satisfying to work with these powerful technologies and create dynamic, efficient, and user-friendly web applications. I'm always learning and exploring new ways to improve my skills, and I'm excited to make my mark in the world of web development.
+Hey there! I'm super passionate about full-stack development. I love diving into both the server side, using C#, and the front end, where I use React. I find it incredibly satisfying to work with these powerful technologies and create dynamic, efficient, and user-friendly web applications. I'm always learning and exploring new ways to improve my skills, and I'm excited to make my mark in the world of web development.
 
 
 ## 🌐 Socials:
